@@ -63,3 +63,4 @@ typings/
 # lockfile
 package-lock.*
 /package-lock.json
+/package-lock.json
